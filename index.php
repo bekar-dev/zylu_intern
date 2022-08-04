@@ -14,7 +14,7 @@ table, th, td {
         <th>Employee Name</th>
         <th>Employee Address</th>
         <th>Employee Year</th>
-        <th>Emplotee Status</th>
+        <th>Employee Status</th>
     </tr>
     <?php 
 include 'db.php';
